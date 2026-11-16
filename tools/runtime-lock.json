@@ -1,0 +1,248 @@
+[
+  {
+    "name": "7zip-26.06_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/7zip/7zip-26.06_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "ace91189ad2ba75ba239c1105812da483ad3348a86caba1b79b81dfe540e4b73"
+  },
+  {
+    "name": "argon2-20190702_1.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/argon2/argon2-20190702_1.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "24c324d4da3fcaf123c1d582895eff4a2fef59966388d4479169ab6a241c6272"
+  },
+  {
+    "name": "brotli-1.2.1_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/brotli/brotli-1.2.1_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "0a3713d7f31a8bba123bca6e4a5ef7098be6362c6abde7e7d07329a78818e70a"
+  },
+  {
+    "name": "expat-2.9.0_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/expat/expat-2.9.0_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "38d027c238dac9a65d7995f3e01e352844bfa61a86098d05cbd8e23a9741b054"
+  },
+  {
+    "name": "freetype-2.15.0_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/freetype/freetype-2.15.0_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "97de6c551cccee250311ef3f2b84004e50851ff73089841f3c0bf155362f1204"
+  },
+  {
+    "name": "gettext-runtime-1.0_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/gettext-runtime/gettext-runtime-1.0_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "a4d38106f4e8a4ea5cb1cebbdbf70a0f8e3e367fb9c78f382c001a117980b503"
+  },
+  {
+    "name": "icu-78.3_1.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/icu/icu-78.3_1.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "ac750f7e84de3a315560f0ddfe2ac076a9079c3d535a12fa530e3ef265a695e1"
+  },
+  {
+    "name": "ioncube_loaders_mac_x86-64.tar.gz",
+    "url": "https://downloads.ioncube.com/loader_downloads/ioncube_loaders_mac_x86-64.tar.gz",
+    "group": "ioncube",
+    "sha256": "8d8f5b67abce29413e31b05dafb5bad6a1c062c51f30ffb19871665d68e48b32"
+  },
+  {
+    "name": "kerberos5-1.22.2_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/kerberos5/kerberos5-1.22.2_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "26198ec48f4a2d69974ccc75d80d8ecfe16e521cd31ced7aa3bc610e2ca07d95"
+  },
+  {
+    "name": "libcomerr-1.47.4_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/libcomerr/libcomerr-1.47.4_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "21cbddc090d3bc08d4c628549af6b4632d3f22b89e136be8e9b3c3fe87f5bfd9"
+  },
+  {
+    "name": "libedit-20260512-3.1_0.darwin_23.x86_64.tbz2",
+    "url": "https://ftp.kaist.ac.kr/macports/packages/libedit/libedit-20260512-3.1_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "918be4ca1c381ed29f35b46b9bc9ce86c62291d2155e83d832669439c75f7c2d"
+  },
+  {
+    "name": "libjpeg-turbo-3.2.1_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/libjpeg-turbo/libjpeg-turbo-3.2.1_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "d61bbea4f195a613bbdbd3cae0c8dd25801cea4ec0b86c8f7b1c5ccb34e3a937"
+  },
+  {
+    "name": "libpng-1.6.59_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/libpng/libpng-1.6.59_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "699974f59be9783f579bd048b97995a5205471f8a405c0126d1c501f577a57d4"
+  },
+  {
+    "name": "libxml2-2.15.4_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/libxml2/libxml2-2.15.4_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "74d5cc0a96b30d877058ff54b8511dcd748a815869d8cec2b0066ef2e02a341a"
+  },
+  {
+    "name": "libxslt-1.1.45_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/libxslt/libxslt-1.1.45_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "c53f712b74663d933c8de83b4e3bf5cfa48f4e6a7ddfa3ea9c83de0cbc575f80"
+  },
+  {
+    "name": "ncurses-6.6_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/ncurses/ncurses-6.6_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "3b4c13e8f9c1d73e729fc0bbcdec0c4b3afa1e5b8ac71cda173611e291d5c012"
+  },
+  {
+    "name": "openssl11-1.1.1w_1.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/openssl11/openssl11-1.1.1w_1.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "ce5380d08257a6bc92bcd581e116703bdb048f2a2e6302669c773280e810209e"
+  },
+  {
+    "name": "openssl3-3.6.5_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/openssl3/openssl3-3.6.5_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "c7554034713b2fbda3bc7395468b38edb460c804f6772d801c9cc7f08df8bc99"
+  },
+  {
+    "name": "ossp-uuid-1.6.2_13+perl5_38.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/ossp-uuid/ossp-uuid-1.6.2_13+perl5_38.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "dea2a93f288d1be3594dc7114c681112c309af1037fe23c199ddba6ed5b264ea"
+  },
+  {
+    "name": "p7zip-16.02_5.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/p7zip/p7zip-16.02_5.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "66fa242647b7d5091321be28f01c86cb3d3f212225de2143d2b9ca809de19282"
+  },
+  {
+    "name": "pcre-8.45_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/pcre/pcre-8.45_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "86580a34160a7f6298a4a5538f992671dc0384b071392e43a4d9759ffadb2525"
+  },
+  {
+    "name": "php-7.2.34.tar.xz",
+    "url": "https://museum.php.net/php7/php-7.2.34.tar.xz",
+    "group": "php-source",
+    "sha256": "409e11bc6a2c18707dfc44bc61c820ddfd81e17481470f3405ee7822d8379903"
+  },
+  {
+    "name": "php72-7.2.34_6+libedit.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72/php72-7.2.34_6+libedit.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "fd32a15fc1ebc29b0c32026e71c6c05b0a00f05a2d5f35f23f76785a3f1940b2"
+  },
+  {
+    "name": "php72-curl-7.2.34_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72-curl/php72-curl-7.2.34_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "393ce0504938d80bb00822236a3af37cbfeab4256624209291d95a126439fb62"
+  },
+  {
+    "name": "php72-exif-7.2.34_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72-exif/php72-exif-7.2.34_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "1160f4351794d691cb8e56d1497b0c89b74d28aa91024e0939ca5218ba345a6c"
+  },
+  {
+    "name": "php72-gd-7.2.34_1.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72-gd/php72-gd-7.2.34_1.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "14422a0d7d315e657eb004ada37b8498c198052193bfeb1cd4b77b9e4262cbfc"
+  },
+  {
+    "name": "php72-gettext-7.2.34_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72-gettext/php72-gettext-7.2.34_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "671fbf36ab86ba3231b67787c6a945479d35ba5caf4aca62a955a3d84c2436f7"
+  },
+  {
+    "name": "php72-iconv-7.2.34_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72-iconv/php72-iconv-7.2.34_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "b13fe96972f56549eacbc9518e944d30511a35cfac9e23260367d4fcc5f4a71d"
+  },
+  {
+    "name": "php72-mbstring-7.2.34_1.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72-mbstring/php72-mbstring-7.2.34_1.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "6c9dc8a7e739af6bcaf1512537632047aadec7e5c352025c16c89eb3f25cbd6b"
+  },
+  {
+    "name": "php72-openssl-7.2.34_1.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72-openssl/php72-openssl-7.2.34_1.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "289393488bec605555ac613bb9257161314e4b17c3e6746cccab455a84f60b51"
+  },
+  {
+    "name": "php72-xmlrpc-7.2.34_1.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/php72-xmlrpc/php72-xmlrpc-7.2.34_1.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "658aebadd9ecba77cba3caed3a7b81d8b35b92e557aa8c9e9d14671e470a8934"
+  },
+  {
+    "name": "postgresql92-9.2.24_8.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/postgresql92/postgresql92-9.2.24_8.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "23b6362f61dd4e45c15eedc29844d368d885c5f36a0bc7cebeb2d9f6dfbae2f1"
+  },
+  {
+    "name": "readline-8.3.003_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/readline/readline-8.3.003_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "2a3c46a9fad12ad4784394110110914fd1e5c83f004e0328c6d554e8dbc7fa31"
+  },
+  {
+    "name": "webp-1.6.0_0.darwin_23.x86_64.tbz2",
+    "url": "https://packages.macports.org/webp/webp-1.6.0_0.darwin_23.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "3db600e035f8850183c59521815be45cea050442d8cf303f6fae90b878ed85a3"
+  },
+  {
+    "name": "boost181-1.81.0_15+no_single+no_static+python314.darwin_10.x86_64.tbz2",
+    "url": "https://packages.macports.org/boost181/boost181-1.81.0_15+no_single+no_static+python314.darwin_10.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "98be34d84c5c54430d10c3104c6ac3924cb2588969a37f812d04f05a866a01ad"
+  },
+  {
+    "name": "bzip2-1.0.8_1.darwin_10.x86_64.tbz2",
+    "url": "https://packages.macports.org/bzip2/bzip2-1.0.8_1.darwin_10.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "ffff01a723d67a2bc26d1749199ff01089f72627579b181a3e0f33c562106668"
+  },
+  {
+    "name": "libiconv-1.19_0.darwin_10.x86_64.tbz2",
+    "url": "https://packages.macports.org/libiconv/libiconv-1.19_0.darwin_10.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "fc0607368701ef2e9aab2aac152179bd4db5aba8e17b8a093493b2cf2c3321ca"
+  },
+  {
+    "name": "innoextract-1.9_2.darwin_10.x86_64.tbz2",
+    "url": "https://packages.macports.org/innoextract/innoextract-1.9_2.darwin_10.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "5640c55f27ba5c7ee3830d1ba91776f41229a92f721561ae746c2e269a2b4f63"
+  },
+  {
+    "name": "xz-5.8.4_0.darwin_10.x86_64.tbz2",
+    "url": "https://packages.macports.org/xz/xz-5.8.4_0.darwin_10.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "ab1551ca3eb2c139ca118866e17ae31469e6f677ec1afe2fb17d6f3169b42b9f"
+  },
+  {
+    "name": "zlib-1.3.2_0.darwin_10.x86_64.tbz2",
+    "url": "https://packages.macports.org/zlib/zlib-1.3.2_0.darwin_10.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "f49841cd7103dc73916441d43e9c0efeee67e38f41a7a05f4f67bf8b5b04075e"
+  },
+  {
+    "name": "zstd-1.5.7_0.darwin_10.x86_64.tbz2",
+    "url": "https://packages.macports.org/zstd/zstd-1.5.7_0.darwin_10.x86_64.tbz2",
+    "group": "macports",
+    "sha256": "8985d7c3654e0815bb72acd33f13e35cecaa5b2aba61c4c05d0554440ee4b13a"
+  }
+]
